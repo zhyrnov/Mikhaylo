@@ -11,8 +11,8 @@ print ('''act Menu
 3. - 
 4. +
 5. **
-6. con(x)
-7. sin(x)
+6. con(num1+num2)
+7. sin(num1+num2)
 ''')
 print('--------'*10)
 choice = int(input('your choice:'))
@@ -37,15 +37,15 @@ elif choice == 5:
     print(round((num1 ** num2), 3))
 
 elif choice == 6:
-    print(num1, 'cos', num2, '=')
+    print('cos','(',num1,'+', num2,')', '=')
     y = math.cos(num1 + num2)
     print(round(y, 3))
 
 elif choice == 7:
-    print(num1, 'sin', num2, '=')
+    print('sin','(',num1,'+', num2,')', '=')
     x = math.sin(num1 + num2)
     print(round(x,3))
 else:
-    print('invalid choice...'
-          'try again...'
-          'choice main menu!')
+    print('''invalid choice...
+          try again...'
+          choice main menu!''')
