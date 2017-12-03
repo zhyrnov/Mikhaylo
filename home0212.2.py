@@ -3,10 +3,16 @@
 #Если первое число меньше второго, то программа печатает слово меньше.
 #А если числа равны, программа напечатает сообщение Эти числа равны.
 
-a = float(input('add number 1= '))
-b = float(input('add number 2= '))
+a = round(float(input('add number 1= ')),3)
+b = round(float(input('add number 2= ')),3)
 round(a,3)
 round(b,3)
 print ('number1 = ',a)
 print('number2 = ',b)
 
+if a > b:
+    print(a,'больше',b)
+if a < b:
+    print(a,'меньше',b)
+if a == b:
+    print('Эти числа равны')

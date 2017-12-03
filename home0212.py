@@ -46,6 +46,6 @@ elif choice == 7:
     x = math.sin(num1 + num2)
     print(round(x,3))
 else:
-    print('''invalid choice...
-          try again...'
+    print('''invalid choice....
+          try again....'
           choice main menu!''')
