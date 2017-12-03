@@ -5,8 +5,7 @@
 
 a = round(float(input('add number 1= ')),3)
 b = round(float(input('add number 2= ')),3)
-round(a,3)
-round(b,3)
+
 print ('number1 = ',a)
 print('number2 = ',b)
 
