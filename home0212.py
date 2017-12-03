@@ -1,6 +1,6 @@
 import math
-num1 = float(input('enter number 1='))
-num2 = float(input('enter number 2='))
+num1 = round(float(input('enter number 1=')),3)
+num2 = round(float(input('enter number 2=')),3)
 print('--------'*10)
 print('num1=',num1,'num2=',num2)
 print('--------'*10)
@@ -15,7 +15,7 @@ print ('''act Menu
 7. sin(num1+num2)
 ''')
 print('--------'*10)
-choice = int(input('your choice:'))
+choice = float(input('your choice:'))
 print('--------'*10)
 if choice == 1:
     print(num1,'/',num2,'=')

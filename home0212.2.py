@@ -15,3 +15,5 @@ if a < b:
     print(a,'меньше',b)
 if a == b:
     print('Эти числа равны')
+
+input()
