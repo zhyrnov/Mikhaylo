@@ -4,8 +4,8 @@ while True:
     num2 = input('enter number 2=')
     print('--------' * 10)
     if num1.isdigit() and num2.isdigit():
-        num1 = int(num1)
-        num2 = int(num2)
+        num1 = float(num1)
+        num2 = float(num2)
         print('num1=',num1,'num2=',num2)
         print('--------'*10)
         print ('''act Menu
