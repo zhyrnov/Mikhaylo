@@ -2,18 +2,19 @@
 #Если первое число больше второго, то программа печатает слово больше.
 #Если первое число меньше второго, то программа печатает слово меньше.
 #А если числа равны, программа напечатает сообщение Эти числа равны.
-
-a = round(float(input('add number 1= ')),3)
-b = round(float(input('add number 2= ')),3)
-
-print ('number1 = ',a)
-print('number2 = ',b)
-
-if a > b:
-    print(a,'больше',b)
-if a < b:
-    print(a,'меньше',b)
-if a == b:
-    print('Эти числа равны')
-
-input()
+while True:
+    a = round(float(input('add number 1= ')),3)
+    b = round(float(input('add number 2= ')),3)
+    print('---' * 10)
+    print ('number1 = ',a)
+    print('number2 = ',b)
+    print('---' * 10)
+    if a > b:
+        print(a,'больше',b)
+        print('---' * 10)
+    if a < b:
+        print(a,'меньше',b)
+        print('---' * 10)
+    if a == b:
+        print('Эти числа равны')
+        print('---' * 10)
