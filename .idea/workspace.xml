@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="564b8486-1827-45b0-94e2-43c7eddded9d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/home0212.4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/home3_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/home3_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/home3_3.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/home0212.2.py" afterPath="$PROJECT_DIR$/home0212.2.py" />
-      <change beforePath="$PROJECT_DIR$/home0212.3.py" afterPath="$PROJECT_DIR$/home0212.3.py" />
+      <change beforePath="$PROJECT_DIR$/home3_2.py" afterPath="$PROJECT_DIR$/home3_2.py" />
+      <change beforePath="$PROJECT_DIR$/home3_3.py" afterPath="$PROJECT_DIR$/home3_3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home0212.2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home0212.2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home0212.2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -72,18 +67,18 @@
       <file leaf-file-name="home3_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home3_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="136">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home3_3.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home3_3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home3_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,12 +118,12 @@
         <option value="$PROJECT_DIR$/home0212.4.py" />
         <option value="$PROJECT_DIR$/home0212.3.py" />
         <option value="$PROJECT_DIR$/home0212.2.py" />
-        <option value="$PROJECT_DIR$/home3_3.py" />
         <option value="$PROJECT_DIR$/home3_2.py" />
+        <option value="$PROJECT_DIR$/home3_3.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="911" />
     <option name="width" value="1020" />
     <option name="height" value="512" />
@@ -195,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.home3_3">
+  <component name="RunManager" selected="Python.home3_2">
     <configuration name="home0212" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,24 +227,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="home0212.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="homework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home0212.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="home31" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,6 +240,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="homework" />
       <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/home31.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="home3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="homework" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home3_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,17 +284,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.home0212.2" />
       <item index="1" class="java.lang.String" itemvalue="Python.home0212" />
-      <item index="2" class="java.lang.String" itemvalue="Python.home0212.3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.home31" />
-      <item index="4" class="java.lang.String" itemvalue="Python.home3_3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.home31" />
+      <item index="3" class="java.lang.String" itemvalue="Python.home3_3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.home3_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.home3_3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.home31" />
-        <item index="2" class="java.lang.String" itemvalue="Python.home0212.2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.home0212" />
-        <item index="4" class="java.lang.String" itemvalue="Python.home0212.3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.home3_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.home3_3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.home31" />
+        <item index="3" class="java.lang.String" itemvalue="Python.home0212.2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.home0212" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +315,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13072917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -328,11 +323,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28481013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28481013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39873418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39873418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -400,11 +395,31 @@
           <line>10</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/home3_2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/home3_2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/home3_2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/home3_2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="11" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -751,6 +766,14 @@ def print_triangle(n):
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home0212.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home0212.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -767,22 +790,6 @@ def print_triangle(n):
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home3_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home3_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home3_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -791,10 +798,18 @@ def print_triangle(n):
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home0212.2.py">
+    <entry file="file://$PROJECT_DIR$/home3_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home3_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>

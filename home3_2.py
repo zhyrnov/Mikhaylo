@@ -2,7 +2,9 @@
 # (Ромб, Елочка, Треугольник, Квадрат, ступеньки)
 
 
-a = input('longest = ')
-b = input('higest = ')
+a = int(input('longest = '))
+b = int(input('higest = '))
 
-print(a)
+for i in range(a):
+    print('*' * i)
+
