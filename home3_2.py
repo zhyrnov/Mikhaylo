@@ -48,3 +48,53 @@ for i in range(a):
     zxc()
     print(' ' * i)
 print('romb')
+
+
+# ступеньки
+def q():
+    print('*',end='')
+
+
+def w():
+    print('-',end='')
+
+
+def e():
+    print('')
+
+
+def ww():
+    w()
+    w()
+
+
+def qq():
+    q()
+    q()
+    q()
+
+
+def www():
+    ww()
+    ww()
+
+
+def zzz():
+    qq()
+    www()
+    e()
+    ww()
+    q()
+    www()
+    e()
+    ww()
+    qq()
+    ww()
+    e()
+    www()
+    qq()
+    e()
+
+
+zzz()
+print('end')
