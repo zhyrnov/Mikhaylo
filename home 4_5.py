@@ -10,6 +10,7 @@ x = int(input("""1. Квадрат
 3. Ромб"""))
 y = int(input('размер фигуры = '))
 
+
 def print_figure():
     if x == 1:
         for i in range(y):
@@ -34,5 +35,6 @@ def print_figure():
             zxc()
             zxc()
             print(' ' * i)
+
 
 print_figure()

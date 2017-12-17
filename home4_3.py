@@ -2,11 +2,10 @@
 # >>func(3):
 # >>2, 4, 6
 
-x = int(input())
 
+def func(n):
 
-def func():
-    for i in range(2,x,2):
-       print(i)
-func()
-print('end')
+    for i in range(1, 2 * n, 2):
+        print(i+1)
+
+print(func(3))

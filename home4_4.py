@@ -2,13 +2,13 @@
 # Пример:
 # >> func(40)
 # >> 2
-a = int(input('a = '))
-def func(a):
-    if 0 < a < 10:
-        print('1 разряд')
-    if 10 < a < 100:
-        print('2 разряд')
-    if 100 < a < 1000:
-        print('3 разряд')
 
-func(a)
+
+def q(n):
+    count = 0
+    while n > 1:
+        n /= 10
+        count += 1
+    return count
+
+print(q(4678645637))
