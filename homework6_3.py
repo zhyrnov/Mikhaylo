@@ -12,8 +12,3 @@ users_1 = [
     '<a>agsdg</a>',
 ]
 # Удалить из списка все не емейлы ("@")
-a = list(users_1)
-
-def check():
-    value = users_1.pop()
-    print(value)
