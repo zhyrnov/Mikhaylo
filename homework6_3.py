@@ -12,3 +12,10 @@ users_1 = [
     '<a>agsdg</a>',
 ]
 # Удалить из списка все не емейлы ("@")
+
+
+for i in users_1:
+    if '@' in i:
+        print(i)
+    else:
+        continue
