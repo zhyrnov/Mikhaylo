@@ -3,6 +3,11 @@
 # >>gen_dict([1, 2, 3, 4, 5, 6])
 # {1: 2, 3: 4, 5: 6}
 
-a = [1, 2, 3, 4, 5, 6]
 
 def gen_dict(a):
+    b = {a[i]: a[i + 1] for i in range(0, len(a), 2)}
+    print(b)
+
+
+gen_dict([1, 2, 3, 4, 5, 6])
+
